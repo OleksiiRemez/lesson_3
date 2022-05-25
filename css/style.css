@@ -47,9 +47,7 @@
   color: brown;
   margin: 7px;
   padding: 7px;
-  border: 2px;
-  border-style: dotted;
-  border-color: brown;
+  border: 2px dotted brown;
   background-color: white;
   transition: 0.4s;
 }
